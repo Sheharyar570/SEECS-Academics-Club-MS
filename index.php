@@ -26,17 +26,6 @@ include "init.php";
 <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script async="" src="./index_files/analytics.js"></script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-59852500-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
 </head>
 <body data-post="" data-gr-c-s-loaded="true" style="">
 <div class="navbar navbar-fixed-top">
@@ -105,7 +94,6 @@ include "init.php";
                   </div>
                 </div>
                 <!-- /widget-content --> 
-                
               </div>
             </div>
           </div>
@@ -196,7 +184,7 @@ include "init.php";
       </div>
       <!-- /row --> 
     </div>
-    <!-- /container --> 
+    <!-- /container -->
   </div>
   <!-- /main-inner --> 
 </div>
@@ -218,9 +206,7 @@ include "init.php";
 <!-- Le javascript
 ================================================== --> 
 <!-- Placed at the end of the document so the pages load faster --> 
-<script src="./assets/dependencies/jquery-1.7.2.min.js"></script> 
-<script type="text/javascript" src="./assets/js/top-bar.js"></script>
-<script type="text/javascript" src="./assets/js/bsa-ads.js"></script>
+<script src="./assets/dependencies/jquery-1.7.2.min.js"></script>
 <script src="./assets/dependencies/bootstrap.js"></script>
 <script src="./assets/js/fusioncharts.js" type="text/javascript"></script>
 <script src="./assets/js/fusioncharts.charts.js" type="text/javascript"></script>
